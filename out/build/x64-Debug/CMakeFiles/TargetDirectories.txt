@@ -1,3 +1,0 @@
-D:/Documents/vision/course/smallPathTracer/out/build/x64-Debug/CMakeFiles/RayTracing.dir
-D:/Documents/vision/course/smallPathTracer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/Documents/vision/course/smallPathTracer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
