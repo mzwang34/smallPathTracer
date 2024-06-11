@@ -22,36 +22,7 @@ make
 
 ## Results
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="results/diffuse1024_1691.png">
-    <center><p>Diffuse, spp=1024</p></center>
-  </div>
-  <div>
-    <img src="results/microfacet1024_is_5984.png">
-    <center><p>Microfacet, spp=1024</p></center>
-  </div>
-  <div>
-    <img src="results/mirror1024_5221.png">
-    <center><p>Mirror, spp=1024</p></center>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="results/mislight128_122.png">
-    <center><p>Sampling the light sources, spp=128</p></center>
-  </div>
-  <div>
-    <img src="results/misbrdf128_67.png">
-    <center><p>Sampling the BRDF, spp=128</p></center>
-  </div>
-  <div>
-    <img src="results/mis128_124.png">
-    <center><p>MIS, spp=128</p></center>
-  </div>
-</div>
-
+<center><img src="results/all.png"></center>
 
 
 ## Acknowledgement
